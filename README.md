@@ -5,7 +5,7 @@ Mi primer página web! Hecha en base a los conceptos de la marca Monte Verde, ta
 <br>
 <br>
 Tecnologías: <br>
-🟢 Html<br>🟢 Css <br>🟢 Javascript<br>🟢 Bootstrap<br>🟢Animate.css & Fontawesome<br>
+🟢 Html<br>🟢 Css <br>🟢 Javascript<br>🟢Animate.css & Fontawesome<br> <!---🟢 Bootstrap<br>--->
   <br>
   <h1>Demo</h1>
   Link: <a href=https://lucotti-agustina-tpo.netlify.app/html/index_mv.html>Click Aquí</a> 
